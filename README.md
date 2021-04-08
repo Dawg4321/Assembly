@@ -1,2 +1,2 @@
 # asm
-Repository for any x86 ASM programs I create.
+Repository to store any x86 ASM programs I develop.
